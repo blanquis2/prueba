@@ -6,3 +6,5 @@ y<-76
 suma<-X+y
  print(suma)
  
+# Buen razonamiento
+# YA PARTICIPA
